@@ -12,6 +12,8 @@ export default function Home() {
       </div>
 
         <div className="bg-blue-200 h-100 w-200 m-10 rounded-xl shadow-sm"></div>
+      
+        <div className="bg-blue-200 h-100 w-200 m-10 rounded-xl shadow-sm"></div>
       </div>
 
       <div className="flex">
