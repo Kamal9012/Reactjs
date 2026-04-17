@@ -17,7 +17,7 @@ export default function Home() {
       <div className="flex">
         <div className="bg-yellow-200 h-100 w-200 m-10 rounded-sm shadow-xl"></div>
 
-        <div className="bg-green-200 h-100 w-200 m-10 rounded-xl shadow-xl"></div>
+        <div className="bg-green-200 h-100 w-200 m-10 rounded-xl shadow-xl lksd"></div>
       </div>
     </div>
   );
